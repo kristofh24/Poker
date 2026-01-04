@@ -5,7 +5,7 @@
 **Project Timeline**: May 31, 2025 - October 30, 2025 (5 months)  
 **Approach**: Agile - incremental implementation with refinements and improvements added along the way
 
-This is a graphical implementation of Texas Hold 'em Poker using Java Swing. The game focuses on smooth animations and engaging UI through the use of custom animation and components. Animation is achieved using timer events and linear interpolation. It is a component that I am very proud of because it pushed me to think differently. Project development has currently been paused to focus on school and other work, but I plan to resume development later in 2026. Below is a detailed development flow to aid with understanding my process.
+This is a graphical implementation of Texas Hold 'em Poker using Java Swing. The game focuses on smooth UX and engaging UI through the use of custom animation and components. Animation is achieved using timer events and linear interpolation. It is a component that I am very proud of because it pushed me to think differently. Project development has currently been paused to focus on school and other work, but I plan to resume development later in 2026. Below is a detailed development flow to aid with understanding my process.
 
 ---
 
